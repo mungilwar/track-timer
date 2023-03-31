@@ -94,7 +94,7 @@ function App() {
           <br />
           <label>
             Time Spent:
-            <input type="number" name="timeSpent" />
+            <input type="text" name="timeSpent" />
           </label>
           <br />
           <button type="submit">Add Task</button>
